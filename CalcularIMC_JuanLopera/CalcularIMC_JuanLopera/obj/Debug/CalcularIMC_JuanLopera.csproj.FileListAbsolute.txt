@@ -1,0 +1,10 @@
+C:\Users\aleja\source\repos\CalcularIMC_JuanLopera\CalcularIMC_JuanLopera\bin\Debug\CalcularIMC_JuanLopera.exe.config
+C:\Users\aleja\source\repos\CalcularIMC_JuanLopera\CalcularIMC_JuanLopera\bin\Debug\CalcularIMC_JuanLopera.exe
+C:\Users\aleja\source\repos\CalcularIMC_JuanLopera\CalcularIMC_JuanLopera\bin\Debug\CalcularIMC_JuanLopera.pdb
+C:\Users\aleja\source\repos\CalcularIMC_JuanLopera\CalcularIMC_JuanLopera\obj\Debug\CalcularIMC_JuanLopera.csproj.AssemblyReference.cache
+C:\Users\aleja\source\repos\CalcularIMC_JuanLopera\CalcularIMC_JuanLopera\obj\Debug\CalcularIMC_JuanLopera.Form1.resources
+C:\Users\aleja\source\repos\CalcularIMC_JuanLopera\CalcularIMC_JuanLopera\obj\Debug\CalcularIMC_JuanLopera.Properties.Resources.resources
+C:\Users\aleja\source\repos\CalcularIMC_JuanLopera\CalcularIMC_JuanLopera\obj\Debug\CalcularIMC_JuanLopera.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\CalcularIMC_JuanLopera\CalcularIMC_JuanLopera\obj\Debug\CalcularIMC_JuanLopera.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\CalcularIMC_JuanLopera\CalcularIMC_JuanLopera\obj\Debug\CalcularIMC_JuanLopera.exe
+C:\Users\aleja\source\repos\CalcularIMC_JuanLopera\CalcularIMC_JuanLopera\obj\Debug\CalcularIMC_JuanLopera.pdb

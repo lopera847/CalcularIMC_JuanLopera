@@ -1,0 +1,1 @@
+2025-05-18 14:23:14 - Nombre: Pedro, Estatura: 1,8m, Peso: 80kg, IMC: 24,69, Clasificación: Peso normal
